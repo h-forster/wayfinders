@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117.55 108.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Rooms">
+    <polygon id="N105" class="cls-1" points="0 50.97 45.6 0 56.35 8.67 66.23 17.16 77.15 24.62 86.86 30.69 96.4 36.06 105.76 41.96 117.55 48.55 113.73 56.35 88.42 108.71 70.04 99.17 59.29 93.28 41.78 82.18 24.1 70.04 7.46 56.87 0 50.97"/>
+  </g>
+</svg>
