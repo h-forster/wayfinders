@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 176">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Rooms">
+    <polygon id="N303_Atrium_" data-name="N303 (Atrium)" class="cls-1" points="21 23 39 9 56 3 69.83 0 84.82 0 97 2 107 4 118 10 129 17 141 28 149 38 157 53 162 67 162 85 154 125 149 139 140 150 124 164 106 171 98 174 82 176 70.14 176 55 174 42 170 29 164 18 157 7 146 19 135 12 128 6 116 2 104 0 90 0 78.76 1.35 65.87 5 52 10 40 21 23"/>
+  </g>
+</svg>
