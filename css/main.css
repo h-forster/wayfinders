@@ -25,6 +25,94 @@ hr {
     padding: 0;
 }
 
+#SIWB {
+    width: 100%;
+    height: auto;
+}
+
+.horizontal {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: left;
+    text-align: center;
+}
+
+.team-pic {
+    width: 30%;
+    height: auto;
+    border-radius: 5px;
+    position: relative;
+    margin: 2% 1%;
+}
+
+.team {
+    width: 80%;
+    height: auto;
+}
+
+
+.building {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    z-index: 0;
+}
+
+.room {
+    z-index: 1;
+    filter: brightness(0);
+}
+
+#n114 {
+    width: 10%;
+    height: auto;
+    margin-left: 53.5%;
+    margin-top: -39%;
+}
+
+#n109 {
+    width: 12%;
+    height: auto;
+    margin-left: 41.5%; 
+    margin-top: -36.5%;
+}
+
+#n108 {
+    width: 6.5%;
+    height: auto;
+    margin-left: -18.2%;
+    margin-top: -33.7%;
+}
+
+#n107 {
+    width: 6.6%;
+    height: auto;
+    margin-left: -13.2%;
+    margin-top: -33%;
+}
+
+#n106 {
+    width: 7.3%;
+    height: auto;
+    margin-left: -13.6%;
+    margin-top: -34.9%;
+
+}
+
+#n105 {
+    width: 7.5%;
+    height: auto;
+    margin-left: -13.3%;
+    margin-top: -40%;
+}
+
+.room:hover {
+    filter: brightness(100%);
+    transition: 0.5s;
+}
+
 audio,
 canvas,
 iframe,
@@ -58,6 +146,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    background-color: #b48cbc;
 }
 
 .wrapper {
@@ -88,9 +177,18 @@ body {
     color: white;
 }
 
-/* ==============
-    MOBILE: Menu
-   ============== */
+/* 
+==============
+MOBILE: Menu
+============== 
+*/
+
+#logo {
+    width: 4%;
+    height: auto;
+    float: left;
+    margin-left: 3%;
+}
 
 nav ul {
     margin: 0;
@@ -111,13 +209,14 @@ nav a {
     background: #712177;
 }
 
-nav a:hover,
-nav a:visited {
+body a:hover,
+body a:visited {
     color: white;
 }
 
-nav a:hover {
-    text-decoration: underline;
+body a:hover {
+    background: #86428b;
+    transition: 0.5s;
 }
 
 /* ==============
@@ -134,7 +233,7 @@ nav a:hover {
 
 .main aside {
     color: white;
-    padding: 0px 5% 10px;
+    padding: 5%;
 }
 
 .footer-container footer {
