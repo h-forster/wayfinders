@@ -1,0 +1,36 @@
+Type,RID,Desc,Floor,Building
+Room, N105 ,,1,SIWB
+Room, N106 ,,1,SIWB
+Room, N107 ,,1,SIWB
+Room, N108 ,,1,SIWB
+Room, N117 ,,1,SIWB
+Room, N118 ,,1,SIWB
+Room, N122 ,ND/Yag Laser Lab,1,SIWB
+Room, N123 ,Raman UV Laser Lab,1,SIWB
+Room, N124 ,Photocatalysis Lab,1,SIWB
+Room, N125 ,Argon CCD Lab,1,SIWB
+Room, N126 ,CRE+E4 Chemicals Lab,1,SIWB
+Room, N127 ,OPO Lasers Lab,1,SIWB
+Room, N128 ,CRE+E3 Chemicals Lab,1,SIWB
+Room, N204 ,Meeting Room,2,SIWB
+Room, N210d ,(Scott Sutherland only),2,SIWB
+Room, N210e,,2,SIWB
+Room, N228 ,DART Facility ,2,SIWB
+Room, N240 ,50 Atrium,2,SIWB
+Room, N241 ,Student Union Room,2,SIWB
+Room, N242 ,,2,SIWB
+Room, N243 ,Meeting Room,2,SIWB
+Room, N247 ,Meeting Room,2,SIWB
+Room, N249 ,Main Engineering Lab,2,SIWB
+Room, N249a ,Welding Lab,2,SIWB
+Room, N249g ,Engineering Workshop,2,SIWB
+Room, N252 ,UG Projects Lab,2,SIWB
+Room, N253 ,Mech Design IT Lab,2,SIWB
+Room, N300 ,The Plaza Outside Entrance,3,SIWB
+Room, N300a ,Main Entrance Foyer,3,SIWB
+Room, N300b ,Concourse,3,SIWB
+Room, N303 ,Amphitheatre,3,SIWB
+Room, N309 ,,3,SIWB
+Room, N310 ,,3,SIWB
+Room, N311 ,,3,SIWB
+Room, N317 ,,3,SIWB
