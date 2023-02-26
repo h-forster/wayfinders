@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 422.8 116.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #712177;
+      }
+
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: TwCenMT-Regular, 'Tw Cen MT';
+        font-size: 50px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <polygon class="cls-1" points="306.1 116.6 422.8 0 0 0 0 116.6 306.1 116.6"/>
+    <text class="cls-2" transform="translate(36 75.25)"><tspan x="0" y="0">Floor One</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2616.23 1224.66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d2d5dc;
+        opacity: .7;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: TwCenMT-Regular, 'Tw Cen MT';
+        font-size: 46px;
+      }
+
+      .cls-6 {
+        letter-spacing: .04em;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        letter-spacing: .02em;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: TwCenMT-Bold, 'Tw Cen MT';
+        font-size: 63px;
+        font-weight: 700;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-11" points=".03 0 .03 396.1 1627.43 396.1 1817.73 204.4 2616.23 204.4 2616.23 0 .03 0"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <image class="cls-2" width="946" height="369" transform="translate(.15 204.27) scale(2.77)" xlink:href="BA0AC39C.jpg"/>
+    <rect class="cls-1" x="1958.13" y="207.4" width="658" height="1016.6"/>
+    <g class="cls-10">
+      <image class="cls-2" width="1890" height="845" transform="translate(.29 -.56) scale(1.38)" xlink:href="E38E45F6.jpg"/>
+    </g>
+    <image class="cls-2" width="685" height="113" transform="translate(0 204.26) scale(1.71)" xlink:href="E38E45F7.jpg"/>
+    <rect class="cls-11" x="2013.43" y="399.2" width="570.5" height="697.1"/>
+    <g class="cls-2">
+      <text class="cls-3" transform="translate(2013.48 428.32)"><tspan x="0" y="0">S</tspan><tspan class="cls-6" x="23" y="0">c</tspan><tspan x="42.54" y="0">hool o</tspan><tspan class="cls-7" x="154.46" y="0">f</tspan><tspan x="171.15" y="0" xml:space="preserve"> Engineering</tspan></text>
+      <text class="cls-3" transform="translate(2013.48 538.72)"><tspan x="0" y="0">S</tspan><tspan class="cls-6" x="23" y="0">c</tspan><tspan x="42.54" y="0">hool o</tspan><tspan class="cls-7" x="154.46" y="0">f</tspan><tspan x="171.15" y="0" xml:space="preserve"> Computing</tspan></text>
+      <text class="cls-3" transform="translate(2013.48 649.12)"><tspan x="0" y="0">Science &amp; Digital Media</tspan></text>
+      <text class="cls-3" transform="translate(2013.48 759.52)"><tspan x="0" y="0">S</tspan><tspan class="cls-6" x="23" y="0">c</tspan><tspan x="42.54" y="0">hool o</tspan><tspan class="cls-7" x="154.46" y="0">f</tspan><tspan x="171.15" y="0" xml:space="preserve"> Pha</tspan><tspan class="cls-9" x="252.37" y="0">r</tspan><tspan x="268.61" y="0">ma</tspan><tspan class="cls-5" x="324.67" y="0">c</tspan><tspan x="342.82" y="0">y &amp; Life </tspan></text>
+      <text class="cls-3" transform="translate(2013.48 814.72)"><tspan x="0" y="0">Sciences</tspan></text>
+      <text class="cls-3" transform="translate(2013.48 925.12)"><tspan x="0" y="0">The Scott Suthe</tspan><tspan class="cls-9" x="276.07" y="0">r</tspan><tspan x="292.31" y="0">land S</tspan><tspan class="cls-6" x="408.99" y="0">c</tspan><tspan x="428.53" y="0">hool o</tspan><tspan class="cls-7" x="540.46" y="0">f</tspan><tspan x="557.14" y="0"> </tspan></text>
+      <text class="cls-3" transform="translate(2013.48 980.32)"><tspan x="0" y="0">Ar</tspan><tspan class="cls-6" x="43.1" y="0">c</tspan><tspan x="62.64" y="0">hitecture &amp; Build </tspan></text>
+      <text class="cls-3" transform="translate(2013.48 1035.52)"><tspan x="0" y="0">Envi</tspan><tspan class="cls-13" x="70.53" y="0">r</tspan><tspan x="84.92" y="0">onment</tspan></text>
+    </g>
+    <rect class="cls-11" x="62.23" y="505.8" width="366.7" height="81.3"/>
+    <rect class="cls-11" x="62.23" y="644.7" width="366.7" height="81.3"/>
+    <text class="cls-4" transform="translate(133.8 676.43)"><tspan x="0" y="0">Floor </tspan><tspan class="cls-8" x="149.9" y="0">F</tspan><tspan x="178.2" y="0">our</tspan></text>
+    <rect class="cls-11" x="62.23" y="783.7" width="366.7" height="81.3"/>
+    <text class="cls-4" transform="translate(133.8 815.38)"><tspan x="0" y="0">Floor Th</tspan><tspan class="cls-9" x="213.52" y="0">r</tspan><tspan x="234.5" y="0">ee</tspan></text>
+    <rect class="cls-11" x="62.23" y="922.6" width="366.7" height="81.3"/>
+    <text class="cls-4" transform="translate(133.8 954.33)"><tspan x="0" y="0">Floor </tspan><tspan class="cls-13" x="149.9" y="0">T</tspan><tspan class="cls-12" x="178.82" y="0">w</tspan><tspan x="228.1" y="0">o</tspan></text>
+    <rect class="cls-11" x="62.23" y="1061.6" width="366.7" height="81.3"/>
+    <text class="cls-4" transform="translate(133.8 1093.28)"><tspan x="0" y="0">Floor One</tspan></text>
+  </g>
+</svg>
