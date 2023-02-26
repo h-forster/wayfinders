@@ -156,6 +156,62 @@ textarea {
     padding: 0.2em 0;
 }
 
+.large-map {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    z-index: 0;
+}
+
+.block {
+    z-index: 1;
+    filter: brightness(90%);
+    filter: opacity(30%);
+
+}
+
+.block:hover {
+    filter: brightness(20%);
+    filter: opacity(90%);
+    transition: 0.5s;
+}
+
+#GSA-blk {
+    width: 7.4%;
+    height: auto;
+    margin-left: 84.3%;
+    margin-top: -53%;
+}
+
+#SIWB-blk {
+    width: 13.4%;
+    height: auto;
+    margin-left: -20.3%;
+    margin-top: -47.3%;
+}
+
+#GDH-blk {
+    width: 10.4%;
+    height: auto;
+    margin-left: -28.1%;
+    margin-top: -57%;
+}
+
+#Sport-blk {
+    width: 11.4%;
+    height: auto;
+    margin-left: 5.8%;
+    margin-top: -48.3%;
+}
+
+#IGB-blk {
+    width: 6.4%;
+    height: auto;
+    margin-left: -48.3%;
+    margin-top: -46.4%;
+}
+
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
