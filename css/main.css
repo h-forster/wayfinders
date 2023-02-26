@@ -164,6 +164,11 @@ hr {
     margin-top: -40%;
 }
 
+#produce-foot {
+
+    margin-top: 100px;
+}
+
 .room:hover {
     filter: brightness(20%);
     filter: opacity(60%);
@@ -401,6 +406,10 @@ body a:hover {
     margin-top: 20px
 }
 
+#solutions {
+
+    margin-bottom: 220px;
+}
 
 #search-form {
     width: 80%;
