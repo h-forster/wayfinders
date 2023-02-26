@@ -218,6 +218,53 @@ textarea {
     margin-bottom: 5%;
 }
 
+.floorbutt {
+    z-index: 1;
+    filter: brightness(90%);
+    filter: opacity(90%);
+}
+
+.floorbutt:hover {
+    z-index: 1;
+    filter: brightness(90%);
+    filter: opacity(60%);
+}
+
+#floorfive {
+    width: 12%;
+    height: auto;
+    margin-left: 4%;
+    margin-top: -65%;
+}
+
+#floorfour {
+    width: 12%;
+    height: auto;
+    margin-left: -12.5%;
+    margin-top: -55%;
+}
+
+#floorthree {
+    width: 12%;
+    height: auto;
+    margin-left: -12.5%;
+    margin-top: -45%;
+}
+
+#floortwo {
+    width: 12%;
+    height: auto;
+    margin-left: -12.5%;
+    margin-top: -35%;
+}
+
+#floorone {
+    width: 12%;
+    height: auto;
+    margin-left: -12.5%;
+    margin-top: -25%;
+}
+
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
