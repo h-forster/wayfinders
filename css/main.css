@@ -75,6 +75,8 @@ hr {
     z-index: 0;
 }
 
+
+
 .room {
     z-index: 1;
     filter: brightness(90%);
@@ -88,11 +90,27 @@ hr {
     margin-top: -39%;
 }
 
+#n114-b {
+    width: 10%;
+    height: auto;
+    margin-left: 53.5%;
+    margin-top: -39%;
+    filter: drop-shadow(3px 3px red) drop-shadow(-3px -3px blue);
+}
+
 #n109 {
     width: 12%;
     height: auto;
     margin-left: 41.5%; 
     margin-top: -36.5%;
+}
+
+#n109-b {
+    width: 12%;
+    height: auto;
+    margin-left: 41.5%; 
+    margin-top: -36.5%;
+    filter: drop-shadow(3px 3px red) drop-shadow(-3px -3px blue);
 }
 
 #n108 {
@@ -264,6 +282,8 @@ textarea {
     margin-left: -12.5%;
     margin-top: -25%;
 }
+
+
 
 
 /* ===== Initializr Styles ==================================================
