@@ -8,6 +8,12 @@ html {
     line-height: 1.4;
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200px;
+    margin-top: 3%;
+  }
+
   h2 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 200px;
